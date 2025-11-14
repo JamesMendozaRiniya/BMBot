@@ -20,7 +20,7 @@ public class PhysicalCare extends BMBot {
             System.out.println("If the pain is severe or you’re in distress, contact my creator’s emergency number: 0912-345-6789.");
         }
 
-        // Ask user which part of body is uncomfortable
+        // Ask user part of body is uncomfortable
         System.out.println("\nWhich part of your body feels uncomfortable, " + getuName() + "?");
         System.out.println("1. Upper body");
         System.out.println("2. Middle body");
@@ -28,7 +28,7 @@ public class PhysicalCare extends BMBot {
 
         int bodyChoice = readIntInRange(1, 3);
 
-        // Depending on the chosen body part, run the correct care method
+        // Chosen Body Part -> run correct care method
         switch (bodyChoice) {
             case 1:
                 handleUpperBody();
@@ -41,7 +41,7 @@ public class PhysicalCare extends BMBot {
                 break;
         }
 
-        // End-of-session pain check
+        // End of session pain check
         System.out.println("\n================================");
         System.out.println("On a scale of 1 to 10, how are you feeling now?");
         int newLevel = readIntInRange(1, 10);
