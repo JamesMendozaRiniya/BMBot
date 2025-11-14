@@ -19,7 +19,7 @@ public class MentalCare extends BMBot {
                 moodRate = Integer.parseInt(input);
 
                 if (moodRate >= 1 && moodRate <= 10) {
-                    break;  // valid → exit loop
+                    break;  // valid: exit loop
                 } else {
                     System.out.println("Please enter a number between 1 and 10.");
              }
