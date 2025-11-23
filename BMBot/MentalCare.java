@@ -31,7 +31,7 @@ public class MentalCare extends BMBot {
 
         // Mood = low
         if (moodRate <= 3) {
-            System.out.println("\n" + getuName() + ", it sounds like you're feeling really low right now. That's okay — you're not alone.");
+            System.out.println("\n" + getuName() + ", it sounds like you're feeling really low right now. That's okay - you're not alone.");
             System.out.println("Please take a deep breath and remember to reach out to someone you trust.");
             System.out.println("If it ever feels too much, you can contact my creator's emergency number: 0912-345-6789");
             System.out.println("Your emotional well-being matters, always. \n");
@@ -56,7 +56,7 @@ public class MentalCare extends BMBot {
         if (satisfied.equalsIgnoreCase("yes")) {
             System.out.println("I'm glad to hear that. Your emotional well-being is important to me.");
             System.out.println("Remember, I'll always be here whenever you need someone to talk to. <3");
-            System.out.println("\"I am satisfied with my care.\" — BMBot");
+            System.out.println("\"I am satisfied with my care.\" - BMBot");
         } else {
             System.out.println("Thank you for your honesty. I'll strive to make your next session even better!");
         }
@@ -86,7 +86,7 @@ public class MentalCare extends BMBot {
                 System.out.println("\n Drink some water and take a deep breath. Hydration improves physical and emotional health.");
                 break;
             case 3:
-                System.out.println("\nAlright, " + getuName() + ". Take it easy — you're doing great.");
+                System.out.println("\nAlright, " + getuName() + ". Take it easy - you're doing great.");
                 break;
             default:
                 System.out.println("\nThat's okay, " + getuName() + ". I'll be here when you're ready. <3");
