@@ -1,7 +1,6 @@
 <div style="background:#241739; padding: 20px; border-radius: 12px; color: #fff; text-align:center; margin-bottom:30px;">
   <h1>BMBot — Your Personal Healthcare Companion</h1>
 </div>
-
   <img src="ImgReadMe/bEyes.png" width="1000">
 </p>
 
@@ -30,16 +29,37 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
 # **Program Structure**
 
-### **Main Classes and Their Roles**
 - **Main.java** — Program entry point.
 - **BMBot.java** — Abstract parent class that handles name storage, input, and care selection.
 - **MentalCare.java** — Handles emotional check-ins and motivational content.
 - **PhysicalCare.java** — Provides basic physical care suggestions depending on pain level and body part.
 
-## **How to Run the Program**
+# **How to Run the Program**
 1. Place all `.java` files in the same folder.
 2. Open terminal (CMD or bash) in that folder.
 3. Compile the program:
-   ```bash
+   ```
    javac *.java
-## **Sample Output**
+# **Sample Outputs**
+- ### **MentalCare Sample Output**
+
+  <img src="ImgReadMe/MentalCare sample.jpg" width="">
+
+- ### **MentalCare Sample Output**
+
+  <img src="ImgReadMe/PhysicalCare sample.jpg" width="">
+
+# **Author and Acknowledgement**
+
+<div style="display: flex; align-items: center; gap: 20px; padding: 15px; border-left: 4px solid #6a0dad; background: #f7f3ff; border-radius: 10px;">
+
+  <img src="ImgReadMe/JmsG.png" width="120" style="border-radius: 10px;">
+
+  <div>
+    <a href="https://github.com/yourusername" style="text-decoration: none; color: #6a0dad;">
+      <h3 style="margin: 0;">James Gabriel Mendoza</h3>
+    </a>
+    <p style="margin: 3px 0 0 0; color: #555;">Author & Developer</p>
+  </div>
+
+</div>
