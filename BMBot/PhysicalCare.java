@@ -16,8 +16,8 @@ public class PhysicalCare extends BMBot {
         // If pain is very low
         if (painLevel <= 3) {
             System.out.println("\nThat seems quite low, " + getuName() + ".");
-            System.out.println("Please make sure you’re okay.");
-            System.out.println("If the pain is severe or you’re in distress, contact my creator’s emergency number: 0912-345-6789.");
+            System.out.println("Please make sure you're okay.");
+            System.out.println("If the pain is severe or you're in distress, contact my creator's emergency number: 0912-345-6789.");
         }
 
         // Ask user part of body is uncomfortable
@@ -48,11 +48,11 @@ public class PhysicalCare extends BMBot {
 
         // Gives feedback depending on the new pain level
         if (newLevel <= 6) {
-            System.out.println("\nThat’s quite low, " + getuName() + ".");
-            System.out.println("It sounds like you’re still in pain.");
-            System.out.println("Please rest, and if it doesn’t improve soon, contact 0912-345-6789 for further assistance.");
+            System.out.println("\nThat's quite low, " + getuName() + ".");
+            System.out.println("It sounds like you're still in pain.");
+            System.out.println("Please rest, and if it doesn't improve soon, contact 0912-345-6789 for further assistance.");
         } else {
-            System.out.println("\nThat’s good progress! Keep taking care of yourself, "
+            System.out.println("\nThat's good progress! Keep taking care of yourself, "
                                + getuName() + " - your body appreciates the care you give it.");
         }
 
@@ -68,7 +68,7 @@ public class PhysicalCare extends BMBot {
 
         if (condition.contains("bleed")) {
             System.out.println("\nPlease apply gentle pressure to the wound and clean it with water if possible.");
-            System.out.println("If the bleeding doesn’t stop or you feel dizzy, reach out immediately to 0912-345-6789.");
+            System.out.println("If the bleeding doesn't stop or you feel dizzy, reach out immediately to 0912-345-6789.");
         } else {
             System.out.println("\nIf your upper body feels tense, try rolling your shoulders or doing gentle neck stretches.");
             System.out.println("Taking a break from screens can also help relax your muscles.");
