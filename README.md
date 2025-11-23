@@ -106,4 +106,4 @@ This project is inspired by *Big Hero 6*, particularly the idea of a warm and ca
 
 <a href="https://www.nbcnews.com/tech/gadgets/big-hero-6-science-behind-baymax-disneys-big-soft-robot-n240241">*Image source: nbcnews — Big Hero 6': The Science Behind Baymax, Disney's Big, Soft Robot*</a>
 
-This project is for educational purposes only and not intended to replace professional medical advice.
+*This project is for educational purposes only and not intended to replace professional medical advice.*
