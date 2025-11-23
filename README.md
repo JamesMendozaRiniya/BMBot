@@ -1,7 +1,7 @@
 <div style="background:#241739; padding: 20px; border-radius: 12px; color: #fff; text-align:center; margin-bottom:30px;">
   <h1>BMBot — Your Personal Healthcare Companion</h1>
 </div>
-  <img src="ImgReadMe/bEyes.png" width="1000">
+  <img src="IMG_ReadMe/bEyes.png" width="1000">
 </p>
 
 <div style="background:#241739; padding: 20px; border-radius: 12px; color: #fff;">
@@ -43,23 +43,67 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 # **Sample Outputs**
 - ### **MentalCare Sample Output**
 
-  <img src="ImgReadMe/MentalCare sample.jpg" width="">
+  <img src="ImgReadMe/MentalCare sample.jpg" width="600">
 
 - ### **MentalCare Sample Output**
 
-  <img src="ImgReadMe/PhysicalCare sample.jpg" width="">
+  <img src="ImgReadMe/PhysicalCare sample.jpg" width="600">
 
-# **Author and Acknowledgement**
-
-<div style="display: flex; align-items: center; gap: 20px; padding: 15px; border-left: 4px solid #6a0dad; background: #f7f3ff; border-radius: 10px;">
-
-  <img src="ImgReadMe/JmsG.png" width="120" style="border-radius: 10px;">
-
+# **Authors**
+<!-- James Gabriel Mendoza -->
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="IMG_ReadMe/JmsG.png" width="250">
   <div>
-    <a href="https://github.com/yourusername" style="text-decoration: none; color: #6a0dad;">
-      <h3 style="margin: 0;">James Gabriel Mendoza</h3>
-    </a>
-    <p style="margin: 3px 0 0 0; color: #555;">Author & Developer</p>
+    <b>James Gabriel Mendoza</b><br>
+    <a href="https://github.com/JamesMendozaRiniya">GitHub Profile</a>
   </div>
-
 </div>
+<br>
+
+<!-- Janna Alexis Raras -->
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="IMG_ReadMe/Janna.png" width="250">
+  <div>
+    <b>Janna Alexis Raras</b><br>
+    <a href="https://github.com/Jannashii">GitHub Profile</a>
+  </div>
+</div>
+
+<br>
+
+<!-- Micha Rubala -->
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="IMG_ReadMe/Micha.png" width="250">
+  <div>
+    <b>Micha Rubala</b><br>
+    <a href="https://github.com/urmchaa">GitHub Profile</a>
+  </div>
+</div>
+
+<br>
+
+<!-- John Christian De Castro -->
+<div style="display:flex; align-items:center; gap:10px;">
+  <img src="IMG_ReadMe/JC.png" width="250">
+  <div>
+    <b>John Christian De Castro</b><br>
+    <a href="https://github.com/Aiahots">GitHub Profile</a>
+  </div>
+</div>
+
+-  ## Our deepest gratitude to our professor
+
+| ![Author](IMG_ReadMe/Maam.png) | **Ms. Fatima Marie P. Agdon**  
+[GitHub Profile](https://github.com/marieemoiselle/) |
+|-------------------------------------|-------------------------------------------------------------------|
+  
+
+
+ ## 🎨 Inspiration
+This project is inspired by *Big Hero 6*, particularly the idea of a warm and caring personal healthcare companion like **Baymax**.  
+
+![Baymax from Big Hero 6](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/newscms/2016_10/749406/baymax.jpg)  
+
+<a href="https://www.nbcnews.com/tech/gadgets/big-hero-6-science-behind-baymax-disneys-big-soft-robot-n240241">*Image source: nbcnews — Big Hero 6': The Science Behind Baymax, Disney's Big, Soft Robot*</a>
+
+This project is for educational purposes only and not intended to replace professional medical advice.
