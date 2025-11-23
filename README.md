@@ -87,7 +87,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
   <img src="IMG_ReadMe/JC.png" width="250">
   <div>
     <b>John Christian De Castro</b><br>
-    <a href="https://github.com/Aiahots">GitHub Profile</a>
+    <a href="https://github.com/Aiahtots">GitHub Profile</a>
   </div>
 </div>
 
