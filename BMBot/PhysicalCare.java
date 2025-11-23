@@ -53,7 +53,7 @@ public class PhysicalCare extends BMBot {
             System.out.println("Please rest, and if it doesn’t improve soon, contact 0912-345-6789 for further assistance.");
         } else {
             System.out.println("\nThat’s good progress! Keep taking care of yourself, "
-                               + getuName() + " — your body appreciates the care you give it.");
+                               + getuName() + " - your body appreciates the care you give it.");
         }
 
         System.out.println("================================");
