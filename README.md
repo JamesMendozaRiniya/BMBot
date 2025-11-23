@@ -52,7 +52,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 # **Authors**
 <!-- James Gabriel Mendoza -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="IMG_ReadMe/JmsG.png" width="250">
+  <img src="IMG_ReadMe/jmsG.png" width="250">
   <div>
     <b>James Gabriel Mendoza</b><br>
     <a href="https://github.com/JamesMendozaRiniya">GitHub Profile</a>
