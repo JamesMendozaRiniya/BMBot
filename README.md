@@ -49,7 +49,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
   <img src="IMG_ReadMe/PhysicalCare sample.jpg" width="600">
 
-# **Authors**
+# **Contributors**
 <!-- James Gabriel Mendoza -->
 <div style="display:flex; align-items:center; gap:10px;">
   <img src="IMG_ReadMe/jmsG.png" width="250">
