@@ -52,7 +52,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 # **Contributors**
 <!-- James Gabriel Mendoza -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://github.com/JamesMendozaRiniya.png" width="250">
+  <img src="https://avatars.githubusercontent.com/u/191589293?u=bc3a3f888e0c0005d4e4ac5f0f238d7680d56141&v=4" width="250">
   <div>
     <b>James Gabriel Mendoza</b><br>
     <a href="https://github.com/JamesMendozaRiniya">GitHub Profile</a>
@@ -62,7 +62,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
 <!-- Janna Alexis Raras -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://github.com/Jannashii.png" width="250">
+  <img src="https://avatars.githubusercontent.com/u/196513239?v=4" width="250">
   <div>
     <b>Janna Alexis Raras</b><br>
     <a href="https://github.com/Jannashii">GitHub Profile</a>
@@ -72,7 +72,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
 <!-- Micha Rubala -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://github.com/urmchaa.png" width="250">
+  <img src="https://avatars.githubusercontent.com/u/197184466?v=4" width="250">
   <div>
     <b>Micha Rubala</b><br>
     <a href="https://github.com/urmchaa">GitHub Profile</a>
@@ -82,7 +82,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
 <!-- John Christian De Castro -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://github.com/Aiahtots.png" width="250">
+  <img src="https://avatars.githubusercontent.com/u/191541812?v=4" width="250">
   <div>
     <b>John Christian De Castro</b><br>
     <a href="https://github.com/Aiahtots">GitHub Profile</a>
@@ -92,7 +92,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
 -  ## Our deepest gratitude to our professor
 
-| ![Author](IMG_ReadMe/Maam.png) | **Ms. Fatima Marie P. Agdon**  
+| ![Author](https://avatars.githubusercontent.com/u/25675355?v=4) | **Ms. Fatima Marie P. Agdon**  
 [GitHub Profile](https://github.com/marieemoiselle/) |
 |-------------------------------------|-------------------------------------------------------------------|
   
