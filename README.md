@@ -13,7 +13,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
 *In urgent cases, BMBot provides the creator’s emergency contact number for safety.*
 
-# **OOP Concepts Applied**
+# **Object Oriented Principles**
 
 ### **a. Abstraction**
 - `BMBot` is an abstract class that contains the shared behaviors and properties of all care modes, and it declares the abstract method `startCare()`, which each care mode must implement in its own way.
@@ -52,7 +52,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 # **Contributors**
 <!-- James Gabriel Mendoza -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="IMG_ReadMe/jmsG.png" width="250">
+  <img src="https://github.com/JamesMendozaRiniya.png" width="250">
   <div>
     <b>James Gabriel Mendoza</b><br>
     <a href="https://github.com/JamesMendozaRiniya">GitHub Profile</a>
@@ -62,34 +62,33 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
 <!-- Janna Alexis Raras -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="IMG_ReadMe/Janna.png" width="250">
+  <img src="https://github.com/Jannashii.png" width="250">
   <div>
     <b>Janna Alexis Raras</b><br>
     <a href="https://github.com/Jannashii">GitHub Profile</a>
   </div>
 </div>
-
 <br>
 
 <!-- Micha Rubala -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="IMG_ReadMe/Micha.png" width="250">
+  <img src="https://github.com/urmchaa.png" width="250">
   <div>
     <b>Micha Rubala</b><br>
     <a href="https://github.com/urmchaa">GitHub Profile</a>
   </div>
 </div>
-
 <br>
 
 <!-- John Christian De Castro -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="IMG_ReadMe/JC.png" width="250">
+  <img src="https://github.com/Aiahtots.png" width="250">
   <div>
     <b>John Christian De Castro</b><br>
     <a href="https://github.com/Aiahtots">GitHub Profile</a>
   </div>
 </div>
+<br>
 
 -  ## Our deepest gratitude to our professor
 
