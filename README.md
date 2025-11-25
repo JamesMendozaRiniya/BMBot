@@ -52,7 +52,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 # **Contributors**
 <!-- James Gabriel Mendoza -->
 <div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://avatars.githubusercontent.com/u/191589293?u=bc3a3f888e0c0005d4e4ac5f0f238d7680d56141&v=4" width="250">
+  <img src="https://avatars.githubusercontent.com/u/191589293?u=bc3a3f888e0c0005d4e4ac5f0f238d7680d56141&v=4" width="250==">
   <div>
     <b>James Gabriel Mendoza</b><br>
     <a href="https://github.com/JamesMendozaRiniya">GitHub Profile</a>
@@ -105,4 +105,5 @@ This project is inspired by *Big Hero 6*, particularly the idea of a warm and ca
 
 <a href="https://www.nbcnews.com/tech/gadgets/big-hero-6-science-behind-baymax-disneys-big-soft-robot-n240241">*Image source: nbcnews — Big Hero 6': The Science Behind Baymax, Disney's Big, Soft Robot*</a>
 
+ ##
 *This project is for educational purposes only and not intended to replace professional medical advice.*
