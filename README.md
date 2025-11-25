@@ -45,7 +45,7 @@ It asks users to rate their mood or pain on a scale of 1 to 10 and responds with
 
   <img src="IMG_ReadMe/MentalCare sample.jpg" width="600">
 
-- ### **MentalCare Sample Output**
+- ### **PhysicalCare Sample Output**
 
   <img src="IMG_ReadMe/PhysicalCare sample.jpg" width="600">
 
